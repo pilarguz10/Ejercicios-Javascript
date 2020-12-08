@@ -95,7 +95,7 @@
         {
             "slug": "07-Arrow-Functions",
             "title": "07-Arrow-Functions",
-            "done": false,
+            "done": true,
             "path": "exercises/07-Arrow-Functions",
             "translations": [
                 "es",
@@ -106,7 +106,7 @@
         {
             "slug": "08-Function-that-returns",
             "title": "08-Function-that-returns",
-            "done": false,
+            "done": true,
             "path": "exercises/08-Function-that-returns",
             "translations": [
                 "es",
@@ -117,7 +117,7 @@
         {
             "slug": "09-Function-parameters",
             "title": "09-Function-parameters",
-            "done": false,
+            "done": true,
             "path": "exercises/09-Function-parameters",
             "translations": [
                 "es",
@@ -128,7 +128,7 @@
         {
             "slug": "10-Array-Methods",
             "title": "10-Array-Methods",
-            "done": false,
+            "done": true,
             "path": "exercises/10-Array-Methods",
             "translations": [
                 "es",
